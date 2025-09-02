@@ -32,6 +32,10 @@
     cursor: pointer;
     margin: 10px;
 }
+.calculater form input:hover{
+    background: #33ffd8;
+    color: #000;
+}
 
 form .display{ 
     display: flex;
